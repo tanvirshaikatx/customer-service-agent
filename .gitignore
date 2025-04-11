@@ -5,7 +5,7 @@ __pycache__/
 
 # C extensions
 *.so
-
+ai_agents_env/
 # Distribution / packaging
 .Python
 build/
